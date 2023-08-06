@@ -271,6 +271,7 @@ const foodDataSet = [
     protiens: 25,
     cab: 2.4,
   },
+  
   {
     id: 35,
     foodname: "Yogurt",
